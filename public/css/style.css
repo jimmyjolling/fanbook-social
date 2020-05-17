@@ -1,0 +1,55 @@
+/* Layout css */
+body {
+    font-size: 1.1rem;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255, 1);
+}
+
+/* dashboard css*/
+
+/*profile*/
+.profile-aside {
+    text-align: center;
+}
+
+.profile-img {
+    max-width: 300px;
+}
+
+.profile-name {
+    margin: 1rem 0;
+}
+
+.profile {
+    margin-top: 10rem;
+}
+/*post feed*/
+.post-feed {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.posted {
+    margin: 1.5rem 0;
+    max-width: 90%;
+}
+
+.pagination-links {
+    margin: auto;
+}
+
+/* error */
+.error {
+    color: red;
+}
+
+.comment-link {
+    color: black;
+    text-decoration: none;
+}
+
+.comment-link:hover {
+    color: black;
+    text-decoration: none;
+}
